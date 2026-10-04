@@ -1,48 +1,5 @@
 body {
     background-color: goldenrod;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:darkslategrey;
-
-}
-
-head {
-    font-family: Georgia, 'Times New Roman', Times, serif ;
-
-}
-
-p {
-    text-align: right;
-
-}
-
-
-fieldset {
-    width: 250px;
-
-}
-
-div {
-    border: 2px solid cornflowerblue;
-}
-
-section {
-    display: flex; 
-}
-
-.grid {
-    display: grid;
-}
-        
-.wrapper {
-    display: flex;
-}
-
-.wrapper div {
-    flex: 1; 
-}
-
-h1 {
-    color:magenta
-    font-size: 2.5rem; 
-    text-align: center; 
+    color: darkslategrey;
 }
