@@ -26,7 +26,7 @@ div {
 }
 
 section {
-    display flex; 
+    display: flex; 
 }
 
 .grid {
