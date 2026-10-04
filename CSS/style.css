@@ -1,7 +1,7 @@
 body {
     background-color: goldenrod;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:darkslategrey
+    color:darkslategrey;
 
 }
 
@@ -25,7 +25,7 @@ fieldset {
 }
 
 div {
-    border: cornflowerblue
+    border: 2px solid cornflowerblue;
 }
 
 section {
@@ -43,12 +43,3 @@ section {
 .wrapper div {
     flex: 1; 
 }
-
-ul 
-li
-ol
-hr
-span
-figure
-input
-fieldset
