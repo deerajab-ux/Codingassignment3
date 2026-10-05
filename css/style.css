@@ -56,6 +56,10 @@
     border: cornflowerblue;
   }
 
+  .box 1 img {
+    width: 200px;
+    height: 250; 
+  }
 
   .box1 {
     text-align: center;
