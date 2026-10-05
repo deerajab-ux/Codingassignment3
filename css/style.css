@@ -80,3 +80,8 @@
   .box1 figcaption {
     font-size: 0.85rem;
   }
+
+  .box4 li {
+    font-size: 1.3rem;
+    line-height: 1.6;
+  }
