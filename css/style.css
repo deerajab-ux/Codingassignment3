@@ -18,10 +18,15 @@
 
   .wrapper {
     display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 10px;
+
   }
 
   .wrapper div {
-    flex: 1;
+    flex: 100px;
+    padding: 10px;
   }
 
   div {
