@@ -13,15 +13,22 @@
     field-sizing: 250px;
     border: 5px solid black;
     border-radius: 10px;
-    background-color: aqua;
+    background-color: darkorange;
 
+  }
+
+  legend {
+    font-size: 11;
+    color: black;
+    padding: 10px;
+    font-size: 1.1rem;
   }
 
   header p {
     text-align: left;
   }
 
-  footer p {
+   p {
     text-align: right;
   }
 
@@ -31,7 +38,7 @@
   }
 
   li {
-    font-size: 1.5rem;
+    font-size: 1rem;
 
   }
 
@@ -50,6 +57,11 @@
 
   div {
     border: cornflowerblue;
+  }
+
+  .box 1 img {
+    height: 250;
+    width: 250;
   }
 
   .box1 {
