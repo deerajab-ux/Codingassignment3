@@ -24,3 +24,6 @@
     flex: 1;
   }
 
+  div {
+    border: cornflowerblue;
+  }
