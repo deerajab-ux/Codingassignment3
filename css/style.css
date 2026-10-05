@@ -3,4 +3,24 @@
       font-family: Georgia, 'Times New Roman', Times, serif;
       color: darkslategrey;
   }
-  
+
+  head {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  fieldset {
+    field-sizing: 250px;
+  }
+
+  p {
+    text-align: right;
+  }
+
+  .wrapper {
+    display: flex;
+  }
+
+  .wrapper div {
+    flex: 1;
+  }
+
