@@ -12,12 +12,22 @@
     field-sizing: 250px;
   }
 
-  p {
-    text-align: center;
+  header p {
+    text-align: left;
+  }
+
+  footer p {
+    text-align: right;
   }
 
   h1, h2, h3, h4 {
     font-family: 'Bangers', cursive;
+    font-size: 25px;
+  }
+
+  li {
+    font-size: 1.1rem;
+
   }
 
   .wrapper {
